@@ -1,4 +1,4 @@
-# MyReads Project
+# Would you rather Project
 
 I create a would you rather app that allows you to log in with
 Specific user , answer a questions , view the result of answer this question with a progress bar , add a new question , show the score of creating and answering the questions and log out . 
