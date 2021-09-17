@@ -26,8 +26,8 @@ Specific user , answer a questions , view the result of answer this question wit
 -Tools:
 * GIT and Github
 * APIS
-       _getUsers()
-       _getQuestions()
-       _saveQuestion(question)
-       _saveQuestionAnswer(object)
+      * _getUsers()
+      * _getQuestions()
+      * _saveQuestion(question)
+      * _saveQuestionAnswer(object)
 
